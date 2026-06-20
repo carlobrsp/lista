@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="4647", CNN
+https://d25usgadhphvwi.cloudfront.net//hls/stv-plus1920x1080/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:0 type="stream" channelId="3382", INFO SPORT
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", WXOW La Crosse WI
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e988bce8-93e4-45f7-84fe-6ca7f841fff9.m3u8?adMethod=3&sessionId=wxowlocalnow
+#EXTINF:0 type="stream" channelId="-1", Globo
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bandeirantes
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT Norte
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w29213761.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w29213761.m3u8
+#EXTINF:0 type="stream" channelId="-1", Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SERTAO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1373879268.m3u8
+#EXTINF:0 type="stream" channelId="-1", Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sony One Cinema (BR)
+https://spt-sonyoneclassicas-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Pluto TV Filmes Nacionais
+pluto://5f5a545d0dbf7f0007c09408?ip=177.47.27.205
+#EXTINF:0 type="stream" channelId="2832", RTP 1 (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3240", RTP 3 (720p) [Not 24/7]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3240", RTP 3 (504p) [Not 24/7]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2851", RTP África (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2850", RTP Açores (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2850", RTP Açores (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sic tv
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", SIC Replay (1080p)
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:0 type="stream" channelId="-1", SIC Alta Definição (1080p)
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:0 type="stream" channelId="-1", SIC TV  Local - Record Rondônia
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", RSI LA1
+https://juventusonair.com/channels/rsila1.php
+#EXTINF:0 type="stream" channelId="-1", RSI LA2
+https://juventusonair.com/channels/rsila2.php
+#EXTINF:0 type="stream" channelId="-1", LaCSat
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Euro TV
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/HasBahCa.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tele Ticino
+https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:0 type="stream" channelId="-1", Chili Velvet
+https://chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Chili Indementicabili
+https://chili-chiliindimenticabili-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="368", CUBA VISION
+https://eu1.servers10.com:8081/8192/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 type="stream" channelId="1320", LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 type="stream" channelId="1321", LA 2
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:0 type="stream" channelId="-1", Zee One
+https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cannes Lérins TV (1080p)
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", viàTéléPaese (720p)
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+#EXTINF:0 type="stream" channelId="-1", ViàMatélé (1080p)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", 20 Minutes TV (1080p)
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:0 type="stream" channelId="2324", La Télé (1080p)
+https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV7 Colmar (576p)
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1948", TVM3 (1080p)
+https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", NRTV
+https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
+#EXTINF:0 type="stream" channelId="-1", Alpe d’Huez TV (720p) [Not 24/7]
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1", HANDICAP TV France
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:0 type="stream" channelId="-1", MaxTV/Dieu TV (1080p)
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Carac 1
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Carac 2
+https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Carac 3
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Carac 4
+https://edge19.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w1458474290_b3000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:0 type="stream" channelId="-1", Brionnais TV (720p)
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BFM Lyon (576p)
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Generations TV (576p)
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1", FashionTV Paris L'Original (1080p)
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:0 type="stream" channelId="3678", ILTV (720p)
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Caillou
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+#EXTINF:0 type="stream" channelId="3398", Canal 32 (1080p)
+https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1", DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1", MDL (720p)
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Littoral FM (720p)
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:0 type="stream" channelId="-1", P2M TV (720p)
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Maná 1 (1080p)
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV3V (720p)
+https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+#EXTINF:0 type="stream" channelId="3677", Vosges Télévision (576p) [Not 24/7]
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="51", English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Garshom TV (360p) [Not 24/7]
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Hala London (1080p)
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+#EXTINF:0 type="stream" channelId="-1", Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:0 type="stream" channelId="-1", Magna Vision (1080p)
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sheffield Live TV (360p) [Not 24/7]
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:0 type="stream" channelId="5053", BRAZZERS
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", FRENCHLOVERS
+http://79.127.207.193:80/FrenchLover/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", DESIRE
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", EROXXX
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BANGU
+http://79.127.207.193:80/BangU/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", EROX
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ADULT 2
+http://proxy.nr3.xyz:80/gu113/niceju113/51987
+#EXTINF:0 type="stream" channelId="-1", DORCEL
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", EXTASI
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2846", PRIVATE
+http://79.127.207.193:80/Private/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2846", PRIVATE
+http://79.127.207.193:80/Private/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ADULT 1
+http://proxy.nr3.xyz:80/gu113/niceju113/51986
+#EXTINF:0 type="stream" channelId="-1", ADULT 3
+http://proxy.nr3.xyz:80/gu113/niceju113/51988
+#EXTINF:0 type="stream" channelId="-1", ADULT 4
+http://proxy.nr3.xyz:80/gu113/niceju113/51989
